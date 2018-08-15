@@ -8,5 +8,7 @@ To make this password generator even better you can add characters from other la
 
 ### Questions
 ozkansener@gmail.com
+
 Ozkan Sener
+
 Vrije Universiteit Amsterdam
